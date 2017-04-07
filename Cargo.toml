@@ -1,0 +1,9 @@
+[package]
+name = "lisp"
+version = "0.1.0"
+authors = ["Yuta Hinokuma <yuta@abeja.asia>"]
+
+[dependencies]
+nom = "^2.1"
+lazy_static = "0.2"
+
